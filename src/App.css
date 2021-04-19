@@ -1,0 +1,20 @@
+.container {
+  background-color: greenyellow;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+.Navbar {
+  display: flex;
+  flex-direction: row;
+  background-color: azure;
+  justify-content: space-around;
+  padding: 4vh 4vw;
+}
+.link {
+  text-decoration: none;
+  color: black;
+}
+.link:hover {
+  color: #00F;
+  cursor: pointer;
+}

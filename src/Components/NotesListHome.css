@@ -1,0 +1,39 @@
+.containerList {
+    margin: 3vh 3vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.singleNote {
+    padding: 4vh;
+    margin: 4vh;
+    border-radius: 20px;
+    background-color: rgb(81, 223, 68);
+}
+.dateBox {
+    display: flex;
+    justify-content: space-between;
+    height: 5vh;
+}
+.deleteBtn {
+    /* justify-self: end; */
+    background-color: rgb(177, 207, 174);
+    /* border: none; */
+    border-radius: 20px;
+}
+.titleBox {
+    display: flex;
+    justify-content: center;
+}
+.title {
+    
+}
+.dateMessage {
+    /* justify-self: start; */
+}
+.descBox {
+
+}
+.descriptionText {
+    /* background-color: black; */
+}

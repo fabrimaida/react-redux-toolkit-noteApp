@@ -1,0 +1,15 @@
+.homeContainer {
+    display: flex;
+}
+.FormBox {
+    /* background-color: blue; */
+    width: 30vw;
+    height: 100%;
+}
+.NotesListHome {
+    background-color: rgb(120, 226, 87);
+    margin: 2vh 2vw;
+    width: 70vw;
+    height: 100%;
+    border-radius: 20px;
+}

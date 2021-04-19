@@ -1,0 +1,15 @@
+.Form {
+    display: flex;
+    flex-direction: column;
+    padding: 1vh 1vw;
+}
+.button {
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 5vh;
+    margin-left: 8vw;
+}
+.textArea {
+    width: 100%;
+    height: 100%;
+}
